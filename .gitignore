@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node / frontend
+node_modules/
+frontend/dist/
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# Python caches
+.pytest_cache/
